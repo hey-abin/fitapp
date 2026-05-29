@@ -1,0 +1,19 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Centered within 66dp safe zone (x: 21 to 87, y: 21 to 87) -->
+    <!-- Apple Body -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,26 C43,26 35,32 35,46 C35,62 47,80 54,80 C61,80 73,62 73,46 C73,32 65,26 54,26 Z" />
+    <!-- Leaf -->
+    <path
+        android:fillColor="#80E5FF"
+        android:pathData="M54,26 C54,18 64,15 64,15 C64,15 61,22 54,26 Z" />
+    <!-- Heart shape inside cutout -->
+    <path
+        android:fillColor="#0D1117"
+        android:pathData="M54,39 C51.5,36 46.5,36 44.5,39 C42,42.5 47,49 54,54 C61,49 66,42.5 63.5,39 C61.5,36 56.5,36 54,39 Z" />
+</vector>

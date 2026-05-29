@@ -1,0 +1,6 @@
+{
+  "name": "Calorie & Weight Tracker",
+  "description": "Daily tracking of weight, calories consumed, food photo AI calculations, steps via physical senser, workouts, and water intake.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
